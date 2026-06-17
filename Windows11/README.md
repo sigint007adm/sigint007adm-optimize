@@ -14,7 +14,8 @@ Todos los scripts son **modulares**: puedes ejecutar solo lo que necesites.
 
 - 🎨 **Personalización**
   - `dark_theme.reg` → activa tema oscuro con ajustes extra.
-  - `taskbar_tweaks.ps1` → personaliza la barra de tareas y menús.  
+  - `taskbar_tweaks.ps1` → personaliza la barra de tareas y menús.
+  - `MenuContextualClassic.ps1` → vuelve al menu contextual clasico.
 
 - 🛠 **Utilidades**
   - `sysinfo_tool.ps1` → muestra información clave del sistema.
